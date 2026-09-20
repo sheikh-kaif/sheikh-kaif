@@ -57,4 +57,11 @@ system built with Node.js, Socket.IO and MongoDB
 
 ## 🤝 Let's Connect
 
-[LinkedIn]([((https://www.linkedin.com/in/mohammad-kaif-98a06a292/)])
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammad-kaif-98a06a292/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  <a href="mailto:mohammadkaif1204@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+</p>
