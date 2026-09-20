@@ -15,17 +15,27 @@ MERN Stack, and System Design**.
 -  Full-stack development with the MERN stack
 -  Learning System Design and scalable architecture
 
-##  Tech Stack
+## 🛠️ Languages & Tools
 
-**Languages:** JavaScript • Java • C++ • SQL
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,javascript" />
+</p>
 
-**Frontend:** React.js • HTML • CSS • Tailwind CSS
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
 
-**Backend:** Node.js • Express.js • REST APIs • Socket.IO
+### Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-**Database:** MongoDB • MySQL
-
-**Tools:** Git • GitHub • Postman
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
 
 ##  Featured Projects
 
