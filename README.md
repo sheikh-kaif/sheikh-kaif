@@ -57,4 +57,4 @@ system built with Node.js, Socket.IO and MongoDB
 
 ## 🤝 Let's Connect
 
-[LinkedIn]((https://www.linkedin.com/in/mohammad-kaif-98a06a292/details/skills/))
+[LinkedIn]([((https://www.linkedin.com/in/mohammad-kaif-98a06a292/)])
