@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Mohammad Kaif 👋
 
-<!--
-**sheikh-kaif/sheikh-kaif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student @ IIIT Agartala | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I enjoy solving problems with **Data Structures & Algorithms**
+and building real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focused on **DSA, Backend Development,
+MERN Stack, and System Design**.
+
+##  What I'm Currently Working On
+
+-  Strengthening Data Structures & Algorithms
+-  Backend development with Node.js & Express
+-  Full-stack development with the MERN stack
+-  Learning System Design and scalable architecture
+
+##  Tech Stack
+
+**Languages:** JavaScript • Java • C++ • SQL
+
+**Frontend:** React.js • HTML • CSS • Tailwind CSS
+
+**Backend:** Node.js • Express.js • REST APIs • Socket.IO
+
+**Database:** MongoDB • MySQL
+
+**Tools:** Git • GitHub • Postman
+
+##  Featured Projects
+
+**Momentum** — Productivity & habit-tracking application
+
+**Health Platform** — Healthcare platform with authentication,
+role-based access and real-time features
+
+**Real-Time Notification System** — Real-time notification
+system built with Node.js, Socket.IO and MongoDB
+
+## Currently Learning
+
+- Advanced DSA
+- Backend Architecture
+- System Design
+- Scalable Web Applications
+
+## 🤝 Let's Connect
+
+[LinkedIn]((https://www.linkedin.com/in/mohammad-kaif-98a06a292/details/skills/))
