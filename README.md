@@ -1,4 +1,5 @@
 # Hi, I'm Mohammad Kaif 👋
+![Profile Views](https://komarev.com/ghpvc/?username=sheikh-kaif&label=Profile%20Views&color=brightgreen&style=flat-square)
 
 ### Computer Science Student @ IIIT Agartala | Aspiring Software Engineer
 
